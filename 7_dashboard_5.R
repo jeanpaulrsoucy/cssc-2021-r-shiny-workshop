@@ -7,7 +7,6 @@ library(dashboardthemes)
 library(readr)
 library(dplyr)
 library(ggplot2)
-library(DT)
 library(plotly)
 
 # load data

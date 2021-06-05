@@ -6,7 +6,7 @@ update.packages(ask = FALSE)
 # install packages required to run the dashboards
 # only installs those not already installed
 pkg_1 <- c("shiny", "shinydashboard", "dashboardthemes",
-           "readr", "dplyr", "ggplot2")
+           "readr", "dplyr", "ggplot2", "plotly")
 pkg_1 <- pkg_1[!(pkg_1 %in% installed.packages()[ , "Package"])]
 if (length(pkg_1 > 0)) install.packages(pkg_1)
 
