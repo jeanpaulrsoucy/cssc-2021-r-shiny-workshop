@@ -12,7 +12,7 @@ The core concepts of Shiny are demonstrated in a series of dashboards themed aro
 
 ## Data
 
-The raw datasets used in this workshop are available from the Internet Movie Database (IMDb) [website](https://www.imdb.com/interfaces/).
+The raw datasets used in this workshop are available from the Internet Movie Database (IMDb) [website](https://www.imdb.com/interfaces/). These data are available for personal and non-commercial use (see [website](https://www.imdb.com/interfaces/) for more details).
 
 Pre-processed data (downloaded June 5, 2021) are provided in the `data` directory.
 
